@@ -19,10 +19,10 @@
   "homepage": "https://cloudcli.ai",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/siteboon/claudecodeui.git"
+    "url": "git+https://github.com/HyperRamzey/claudecodeui.git"
   },
   "bugs": {
-    "url": "https://github.com/siteboon/claudecodeui/issues"
+    "url": "https://github.com/HyperRamzey/claudecodeui/issues"
   },
   "scripts": {
     "dev": "concurrently --kill-others \"npm run server:dev\" \"npm run client\"",
@@ -95,7 +95,7 @@
     "cmdk": "^1.1.1",
     "cors": "^2.8.5",
     "cross-spawn": "^7.0.3",
-    "dompurify": "^3.4.7",
+    "dompurify": "^3.4.10",
     "express": "^4.18.2",
     "fuse.js": "^7.0.0",
     "gray-matter": "^4.0.3",
